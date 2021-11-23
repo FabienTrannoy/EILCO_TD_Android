@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">TD2</string>
+    <string name="hint_plat">Plat</string>
+    <string name="hint_entree">Entrée</string>
+    <string name="check_box_fromage_label">Fromage</string>
+    <string name="check_box_fruit_label">Fruit</string>
+    <string name="radio_button_midi_label">Midi</string>
+    <string name="radio_button_soir_label">Soir</string>
+    <string name="button_valider_label">Valider</string>
+    <string name="button_annuler_label">Annuler</string>
+    <string name="text_view_temperature_label">Température (°C)</string>
+    <string name="text_view_vitesse_vent_label">Vitesse du vent (km/h)</string>
+    <string name="text_viex_etat_ciel_label">Etat du ciel</string>
+    <string name="radio_button_degage_label">Ciel dégagé</string>
+    <string name="radio_button_couvert_label">Couvert</string>
+    <string name="radio_button_pluvieux_label">Pluvieux</string>
+    <string name="button_ok_label">ok</string>
+    <string name="button_retour_label">Retour</string>
 </resources>
